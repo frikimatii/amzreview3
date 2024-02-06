@@ -1,0 +1,238 @@
+ [
+  {
+    "id": 20,
+    "titulo": "Hagibis Kit de luz LED de estudio",
+    "afiliado": "https://amzn.to/3w5W4GI",
+    "descripcion": "Potente kit LED para video con ajuste de brillo y 9 filtros de color.",
+    "review": "El kit de luz LED de estudio de Hagibis es una solución potente para mejorar la iluminación en tus sesiones de video y fotografía. Con un CRI superior al 95, garantiza una reproducción precisa del color. Puedes ajustar fácilmente el brillo del 0% al 100% y utilizar los 9 filtros de color incluidos para crear efectos luminosos vibrantes. Su cabezal giratorio de 360º y el cardán de cabeza esférica te permiten ajustar el ángulo de disparo según tus necesidades. Portátil y compacto, es ideal para diversos escenarios como estudio, mesa, video, fotografía, selfie, transmisión en vivo y más. Alimentado por USB, puedes usar un cargador de pared, banco de energía o cualquier fuente USB. El paquete incluye 2 paneles LED, soporte de trípode ajustable y 2 manuales de usuario. Una solución versátil y conveniente para mejorar tu iluminación en diferentes situaciones.",
+    "img1": "https://m.media-amazon.com/images/I/61hPxDK790L._AC_SX679_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/61fLVwoiQ+L._AC_SX679_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/815qZwf2E3L._AC_SX679_.jpg",
+    "calificacion": 90
+  }
+,  
+  {
+    "id": 19,
+    "titulo": "SAMSUNG Galaxy Watch 6 LTE",
+    "afiliado": "https://amzn.to/3UvXlBc",
+    "descripcion": "Smartwatch avanzado con seguimiento de fitness, zonas de frecuencia cardíaca personalizadas y monitor de sueño.",
+    "review": "El Galaxy Watch 6 LTE de SAMSUNG es un smartwatch que te ayuda a alcanzar tus objetivos de fitness. Con seguimiento de más de 90 ejercicios, zonas de frecuencia cardíaca personalizadas y Advanced Sleep Coaching, te brinda información valiosa sobre tu salud y bienestar. Además, cuenta con un monitor de frecuencia cardíaca siempre encendido que puede detectar ritmos cardíacos irregulares. El sensor BIA avanzado proporciona lecturas sobre grasa corporal, músculo esquelético, agua corporal, índice de masa corporal (IMC) y más. Con funciones como la sincronización con otros dispositivos Galaxy, pantalla más grande y opciones de personalización de bandas, este smartwatch mantiene tu estilo y te mantiene conectado sobre la marcha. Una herramienta completa para monitorear tu cuerpo y mantenerte activo con estilo.",
+    "img1": "https://m.media-amazon.com/images/I/711f6KLsMaL._AC_SX679_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/61Zk7b7JfdL._AC_SX679_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/71yCcG8zw4L._AC_SX679_.jpg",
+    "calificacion": 95
+  }
+,  
+  {
+    "id": 18,
+    "titulo": "NVIDIA SHIELD Android TV Pro",
+    "afiliado": "https://amzn.to/4bo5gGD",
+    "descripcion": "Potente reproductor multimedia Android TV Pro con Dolby Vision y juegos en la nube.",
+    "review": "El NVIDIA SHIELD Android TV Pro es el reproductor multimedia de transmisión más potente del mundo, actualizado a Android TV versión 11. Ofrece una ampliación de IA de próxima generación para mejorar el video HD en tiempo real a 4K, proporcionando imágenes más claras y nítidas. Con 2 puertos USB 3.0 para expansión de almacenamiento y tecnología Dolby Vision - Atmos, brinda una experiencia cinematográfica en casa con calidad de imagen ultra vívida y audio inmersivo. También incluye el servicio GeForce NOW Cloud Gaming, transformando SHIELD TV en una potente plataforma de juegos para PC. El control por voz a través del Asistente de Google incorporado y la compatibilidad con Google Home y Alexa ofrecen una experiencia de usuario conveniente.",
+    "img1": "https://m.media-amazon.com/images/I/61rowppY2TL._AC_SX466_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/81Yib0qyCfL._AC_SX466_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/71e7j6w2AsL._AC_SX466_.jpg",
+    "calificacion": 90
+  }
+,  
+  {
+    "id": 17,
+    "titulo": "Fujifilm instax Mini 12 - Cámara instantánea",
+    "afiliado": "https://amzn.to/3wfwsHi",
+    "descripcion": "Cámara instantánea compacta y bonita en verde menta.",
+    "review": "La Fujifilm instax Mini 12 es una cámara instantánea con un diseño compacto y atractivo en color verde menta. Con su lente que gira fácilmente para encender y apagar, cuenta con un espejo selfie integrado para capturar selfies fácilmente y un modo de primer plano con corrección de paralaje. Ofrece exposición automática y control de flash para obtener fotos brillantes y bien expuestas. Imprime fotos instantáneas de alta calidad de 2\" x 3\" en aproximadamente cinco segundos, con un tiempo de desarrollo de alrededor de 90 segundos. Utiliza la película instantánea INSTAX MINI (se vende por separado). Viene con una correa de mano, manual de usuario, 2 pilas AA y una garantía limitada de 1 año.",
+    "img1": "https://m.media-amazon.com/images/I/51yUlWvDcnL._AC_SY679_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/61UrOf4qPoL._AC_SX466_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/61ga56X2uTL._AC_SX466_.jpg",
+    "calificacion": 85
+  }
+,  
+  {
+    "id": 16,
+    "titulo": "JBL Quantum 100X - Auriculares para juegos Xbox",
+    "afiliado": "https://amzn.to/3HNiNdb",
+    "descripcion": "Auriculares con JBL QuantumSOUND Signature, comodidad de espuma viscoelástica y micrófono desmontable.",
+    "review": "Los auriculares JBL Quantum 100X ofrecen una experiencia de juego inmersiva con JBL QuantumSOUND Signature, proporcionando un paisaje sonoro realista para mejorar la competitividad en cualquier batalla de Xbox, Playstation y Nintendo Switch. La comodidad de la espuma viscoelástica en la diadema y almohadillas permite sesiones de juego prolongadas. El micrófono de pluma direccional garantiza una comunicación clara con funciones silenciosas. Compatible con Windows Sonic Surround Sound, estos auriculares están diseñados para ofrecer un sonido envolvente nativo en consolas Xbox Series X y S. Versátiles y compatibles con varias plataformas, incluyendo PC, PlayStation, Xbox, Nintendo Switch, Mobile, Mac y VR.",
+    "img1": "https://m.media-amazon.com/images/I/51QvexUPZaL._AC_SX466_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/51jthu2RETL._AC_SX466_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/51gVZJZkMzL._AC_SX466_.jpg",
+    "calificacion": 90
+  }
+,  
+  {
+    "id": 15,
+    "titulo": "LeadsaiL - Juego de teclado compacto y mouse inalámbricos",
+    "afiliado": "https://amzn.to/3OA1PTA",
+    "descripcion": "Teclado y mouse inalámbricos, diseño delgado, ergonómico.",
+    "review": "El juego de teclado y mouse LeadsaiL ofrece un diseño delgado y ergonómico para una experiencia de escritura cómoda. Con teclas de perfil bajo y tecnología silenciosa, permite trabajar sin molestias ni ruidos. La conexión inalámbrica de 2.4 GHz es rápida y lista para usarse, con un alcance de hasta 33 pies. El teclado cuenta con teclas multimedia de acceso rápido y un teclado numérico. El mouse inalámbrico tiene un diseño anatómico y ofrece un funcionamiento preciso con opciones de DPI ajustables. Ambos dispositivos son compatibles con una variedad de sistemas operativos, incluyendo Windows XP / Vista / 7 / 8 / 10. Una combinación elegante y funcional para mejorar la productividad.",
+    "img1": "https://m.media-amazon.com/images/I/81TsUGvYeoL._AC_SX466_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71sbVwos0OL._AC_SX466_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/71ujlY1PEiL._AC_SX466_.jpg",
+    "calificacion": 88
+  }
+,  
+  {
+    "id": 14,
+    "titulo": "ASUS ROG Strix B550-F Gaming",
+    "afiliado": "https://amzn.to/4bt7i8e",
+    "descripcion": "Tarjeta madre AMD AM4, PCIe 4.0, Aura Sync RGB.",
+    "review": "La ASUS ROG Strix B550-F Gaming es una tarjeta madre potente y eficiente diseñada para CPU Zen 3 Ryzen 5000 y 3ª generación AMD Ryzen. Con un zócalo AMD AM4 y soporte PCIe 4.0, ofrece una sólida potencia con su diseño de 12+2 etapas de potencia DrMOS. Su solución térmica optimizada y las redes de juegos de alto rendimiento, como LAN de 5 Gb, garantizan un rendimiento fiable. Además, cuenta con HDMI 2.1, DisplayPort 1.2 y M.2 ranuras para una conectividad versátil. Un diseño robusto, audio de alta calidad y compatibilidad con memoria DDR4 a 4400 MHz hacen de esta tarjeta madre una opción ideal para entusiastas de los juegos y la informática.",
+    "img1": "https://m.media-amazon.com/images/I/813WBwlPh+L._AC_SX466_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/81xUYIJMzTL._AC_SX466_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/811OQiEY5AL._AC_SX466_.jpg",
+    "calificacion": 92
+  }
+,  
+  {
+    "id": 13,
+    "titulo": "Samsung USB Type-C™ 128 GB",
+    "afiliado": "https://amzn.to/3wcUa73",
+    "descripcion": "Unidad flash USB-C de 128 GB, resistente al agua.",
+    "review": "La unidad flash Samsung USB Type-C™ de 128 GB ofrece un rendimiento confiable y velocidades de transferencia rápidas, con capacidad para transferir archivos de 4 GB en solo 11 segundos. Su diseño compacto y resistente al agua la hace ideal para almacenamiento USB-C sobre la marcha. Con velocidades de lectura de hasta 400 MB/s y compatibilidad con USB 3.0/2.0, esta moderna unidad USB-C es compatible con una variedad de dispositivos. Resistente a condiciones adversas, es una unidad confiable para almacenar datos valiosos, respaldada por una garantía limitada de 5 años. Conéctate sin problemas a laptops, tablets, teléfonos y cámaras, con estilo y facilidad.",
+    "img1": "https://m.media-amazon.com/images/I/817xK9Cd6JL._AC_SX466_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/61ZmO3m7IzL._AC_SX466_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/61J0K1ZMO+L._AC_SX466_.jpg",
+    "calificacion": 94
+  }
+  ,
+  {
+    "id": 12,
+    "titulo": "Router WiFi 6 TP-Link AX1800",
+    "afiliado": "https://amzn.to/3SMHY65",
+    "descripcion": "Router de doble banda con WiFi 6, AX1800.",
+    "review": "El router TP-Link Archer AX21 ofrece la última tecnología WiFi 6 con velocidades de hasta 1.8 Gbps, proporcionando una conexión más rápida y estable para transmisión, juegos y descargas. Certificado para funcionar con Alexa, facilita la configuración para usuarios no expertos en hogar inteligente. Con soporte para servidor VPN, conectividad eficiente para múltiples dispositivos y amplia cobertura gracias a Beamforming y antenas de alta ganancia. Ideal para el hogar y compatible con diversos proveedores de servicios de Internet.",
+    "img1": "https://m.media-amazon.com/images/I/51NPaIorJiL._AC_SX466_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71zB9NiCEzL._AC_SX466_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/714ouVFX55L._AC_SX466_.jpg",
+    "calificacion": 92
+  }
+,  
+  {
+    "id": 11,
+    "titulo": "Monitor Curvo Samsung 24 pulgadas",
+    "afiliado": "https://amzn.to/3Sw01vM",
+    "descripcion": "Monitor Full HD curvo de 23.5 pulgadas con FreeSync.",
+    "review": "El monitor curvo Samsung de 23.5 pulgadas ofrece una experiencia envolvente con su curvatura a 1800R. Con un tiempo de respuesta de 4 ms, diseño elegante y modo Eye Saver para mayor comodidad visual. La tecnología FreeSync reduce la latencia y mejora la experiencia de juego. Resolución Full HD de 1920x1080 píxeles, con excelente relación de contraste 3000:1 para negros profundos y blancos brillantes.",
+    "img1": "https://m.media-amazon.com/images/I/91ubktnbNVL._AC_SX466_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71VyDtO1TCL._AC_SX466_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/61Jo9aH-8OL._AC_SX466_.jpg",
+    "calificacion": 90
+  }
+,  
+  {
+    "id": 10,
+    "titulo": "QGeeM Estación de acoplamiento USB 3.0",
+    "afiliado": "https://amzn.to/3SdT1EZ",
+    "descripcion": "Estación de acoplamiento USB 3.0 multifuncional con seguridad y portabilidad.",
+    "review": "La estación de acoplamiento USB 3.0 de QGeeM es multifuncional, segura y portátil. Equipada con un convertidor USB-C OTG y una carcasa de aluminio premium para durabilidad y prevención de sobrecalentamiento. Ofrece salida de video HDMI y VGA dual para pantalla triple, permitiendo la transmisión directa de video Full HD 2k a 3 monitores. Con conexión Ethernet 1000M y transferencia rápida de datos a través de 2 puertos USB 3.0. Compatible con una variedad de laptops, incluyendo MacBook Pro M1, Dell XPS, Lenovo Yoga, ASUS ZenBook, y más. Incluye cable USB A a C, adaptador de convertidor USB-C y manual de usuario.",
+    "img1": "https://m.media-amazon.com/images/I/71SSnJ91E9L._AC_SX466_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71k0ojLzdlL._AC_SY679_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/717AVqvCT2L._AC_SY679_.jpg",
+    "calificacion": 86
+  },
+  {
+    "id": 9,
+    "titulo": "Kit de luces LED de video Hagibis",
+    "afiliado": "https://amzn.to/3HgRnvU",
+    "descripcion": "Kit de luces LED de video con excelente iluminación, cabezal giratorio de 360º ",
+    "review": "El kit de luces LED de video Hagibis ofrece una excelente iluminación con más de 95 CRI para una reproducción precisa del color. Con ajuste de brillo del 0% al 100% y 9 filtros de color, proporciona efectos de iluminación versátiles. Su cabezal giratorio de 360º y el panel LED ajustable satisfacen fácilmente diferentes ángulos de disparo. Portátil y compacto, es ideal para una variedad de escenarios, como estudios, videos, fotografía, transmisión en vivo y vlogs. Alimentado por USB, es conveniente para su uso con cargadores de pared, bancos de energía o computadoras.",
+    "img1": "https://m.media-amazon.com/images/I/61hPxDK790L._AC_SX679_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/61fLVwoiQ+L._AC_SX679_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/815qZwf2E3L._AC_SX679_.jpg",
+    "calificacion": 92
+  }
+  ,{
+    "id": 6,
+    "titulo": "Victrola Journey+ - Tocadiscos de maleta Bluetooth",
+    "afiliado": "https://amzn.to/3HgRjwa",
+    "descripcion": "Tocadiscos de maleta de tres velocidades con calidad de sonido premium.",
+    "review": "El Victrola Journey+ es un tocadiscos de maleta que combina el encanto retro con la conveniencia moderna. Ofrece tres velocidades y calidad de sonido premium. Su diseño portátil con asa facilita su transporte, permitiendo a los amantes del vinilo llevar su música a cualquier lugar. Con opciones de conexión ampliadas, como altavoces Bluetooth integrados, salidas RCA estéreo y entrada Line, este tocadiscos se adapta a diversas configuraciones. La instalación es rápida y sencilla, sin necesidad de un sistema estéreo adicional. Los controles intuitivos incluyen perillas de selección de entrada, encendido/volumen y un interruptor de parada automática. Con Victrola Journey+, crea recuerdos musicales de por vida con estilo.",
+    "img1": "https://m.media-amazon.com/images/I/71+3R757iFL._AC_SX466_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71+3R757iFL._AC_SX466_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/71+3R757iFL._AC_SX466_.jpg",
+    "calificacion": 89
+  }
+,   {
+    "id": 7,
+    "titulo": "Kasa Matter - Interruptor de luz inteligente",
+    "afiliado": "https://amzn.to/41UPVJn",
+    "descripcion": "Interruptor de luz inteligente con control de voz mediante Siri, Alexa y Google Assistant. ",
+    "review": "El interruptor de luz inteligente Kasa Matter ofrece máxima flexibilidad al unificar tu hogar inteligente con compatibilidad multiplataforma, incluyendo Apple Home, Alexa, Google Home y SmartThings. Permite el control de voz a través de Siri, Amazon Alexa o Google Assistant para una experiencia manos libres. Con conexión LAN, los dispositivos funcionan sin problemas incluso sin internet. Puedes controlar tus dispositivos desde varios sistemas simultáneamente con la función Multi-Admin. La fácil instalación guiada, el temporizador y la programación avanzada hacen que este interruptor sea conveniente y versátil.",
+    "img1": "https://m.media-amazon.com/images/I/51uFhM+11bL._SX522_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/61O8TGo16JL._SX522_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/61BpNJsGKhL._SX522_.jpg",
+    "calificacion": 94
+  }
+  ,{
+    "id": 6,
+    "titulo": "Fire TV Cube Reacondicionado Certificado",
+    "afiliado": "https://amzn.to/41UY2Wh",
+    "descripcion": "Dispositivo de reproducción en streaming con control por voz a través de Alexa, 4K Ultra HD ",
+    "review": "El Fire TV Cube Reacondicionado Certificado de Amazon ofrece reproducción de contenido sin usar las manos, con control por voz a través de Alexa. Este dispositivo reacondicionado certificado ha sido probado y certificado para verse y funcionar como nuevo. Incluye un plan de protección de 1 año que cubre daños durante el uso normal, fallos mecánicos y eléctricos, con asistencia técnica las 24 horas los 7 días de la semana y reemplazo en 2 días. Controla tu televisión, barras de sonido y receptores AV compatibles con la voz. Además, disfruta de imágenes 4K Ultra HD, compatible con Dolby Vision, HDR, HDR10+ y sonido envolvente Dolby Atmos. Con protección y controles de privacidad, incluyendo un botón para activar/desactivar los micrófonos electrónicamente.",
+    "img1": "https://m.media-amazon.com/images/I/61kuQb-sWeL._AC_SX679_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/61Aa0w6UN+L._AC_SX679_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/51cWZaDmALL._AC_SX679_.jpg",
+    "calificacion": 92
+  }
+  ,{
+    "id": 5,
+    "titulo": "DJI Pocket 2 - Estabilizador Portátil de Cardán",
+    "afiliado": "https://amzn.to/47CI2tf",
+    "descripcion": "Estabilizador portátil de 3 ejes con cámara 4K, sensor CMOS de 1/1.7 pulgadas, fotos de 64 MP, tamaño de bolsillo. ",
+    "review": "El DJI Pocket 2 es un estabilizador portátil de cardán con un diseño de tamaño de bolsillo, pesa solo 4.09 oz y ofrece hasta 140 minutos de duración de la batería. Equipado con un cardán de 3 ejes para estabilización motorizada, captura video suave en movimiento y fotos nítidas en cualquier momento. Su sensor mejorado de 1/1.7 pulgadas permite fotos de 64 MP y grabación de video en 4K. Con una lente de 0.787 in f/1.8, proporciona un aspecto cinematográfico amplio y vívido. Con cuatro micrófonos para un audio mejorado, ofrece grabación de sonido direccional, zoom de audio y SoundTrack para mejorar el audio según la dirección y el enfoque de la cámara. Además, cuenta con efectos de glamour, AI Editor para edición automática y es compatible con la mayoría de los smartphones.",
+    "img1": "https://m.media-amazon.com/images/I/61XKonXOA3L._AC_SX466_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/81BQYkme8lL._AC_SX466_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/71mWX+ehV7L._AC_SX466_.jpg",
+    "calificacion": 93
+  },{
+    "id": 4,
+    "titulo": "AMD Ryzen 9 5950X - Procesador de 16 núcleos y 32 hilos",
+    "afiliado": "https://amzn.to/3S1t9uy",
+    "descripcion": "Procesador de escritorio desbloqueado con 4.9 GHz Max Boost y 72 MB de caché.",
+    "review": "El AMD Ryzen 9 5950X es un procesador de escritorio desbloqueado con 16 núcleos y 32 hilos, diseñado tanto para jugadores como creadores. Ofrece un rendimiento de élite, proporcionando hasta 100 más FPS en los juegos más populares del mundo. Con una velocidad de hasta 4.9 GHz Max Boost, es desbloqueado para overclocking y cuenta con 72 MB de caché. No incluye refrigerador, se recomienda enfriamiento líquido. Diseñado para la plataforma avanzada Socket AM4, es compatible con PCIe 4.0 en placas base X570 y B550.",
+    "img1": "https://m.media-amazon.com/images/I/41n0f15JLIL._AC_SX466_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/51gQ+X07SQL._AC_SX466_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/21EKUwtccoL._AC_SX466_.jpg",
+    "calificacion": 95
+  },{
+    "id": 3,
+    "titulo": "POLAR Unite - Reloj de Fitness Impermeable",
+    "afiliado": "https://amzn.to/3RVZfId",
+    "descripcion": "Reloj inteligente ligero de seguimiento de fitness con monitor de frecuencia cardíaca y seguimiento del sueño.",
+    "review": "El POLAR Unite es un reloj inteligente ligero diseñado para mantener activo al usuario. Planifica y realiza un seguimiento de tus entrenamientos con la aplicación Polar Flow sin necesidad de suscripción. Ofrece hasta 50 horas de duración de batería en modo de entrenamiento y hasta 4 días en modo reloj con una sola carga. Fácil de usar con un solo botón y cuenta con monitoreo avanzado de frecuencia cardíaca basado en la muñeca, así como herramientas especializadas de sueño y recuperación para mejorar el rendimiento. Resistente al agua con GPS para rastrear cada paso y giro. Recibe notificaciones telefónicas, rutinas de entrenamiento personalizadas y funciones de calorías inteligentes para guiarte hacia una mejor forma física. Perfecto para hombres o mujeres, con una pulsera de nailon cómoda para usar de día y de noche.",
+    "img1": "https://m.media-amazon.com/images/I/81xtTiPghgL._AC_SX679_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71gQTRf1OLL._AC_SX679_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/71HKGQ4IvgL._AC_SX679_.jpg",
+    "calificacion": 92
+  }, {
+    "id": 2,
+    "titulo": "JBL Go 3 Eco: Altavoz Bluetooth - Verde",
+    "afiliado": "https://amzn.to/4aT8uSh",
+    "descripcion": "Altavoz portátil con Bluetooth, diseño ecológico y resistente al agua.",
+    "review": "El JBL Go 3 Eco combina el rendimiento de JBL Original Pro Sound con un diseño innovador y ecológico. Con hasta un 90% de plástico PCR y tela reciclada en la rejilla del altavoz, reduce la huella de carbono. Ofrece audio sorprendentemente grande y bajos fuertes en un tamaño ultracompacto. Su diseño ultraportátil se adapta a los últimos estilos y es resistente al agua y al polvo (IP67). Transmite música de forma inalámbrica y tiene hasta 5 horas de reproducción con una carga. Diseñado con sostenibilidad en mente y empaquetado de manera sostenible.",
+    "img1": "https://m.media-amazon.com/images/I/71nqoc5bfzL._AC_SX466_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/81GM3zHb4EL._AC_SX466_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/61OMUmg7AEL._AC_SX466_.jpg",
+    "calificacion": 90
+  },{
+    "id": 1,
+    "titulo": "Blink Video Doorbell + Mini Cámara",
+    "afiliado": "https://amzn.to/4aWKSMv",
+    "descripcion": "Timbre con cámara HD y Mini Cámara con audio bidireccional.",
+    "review": "Experimenta video HD 1080p día y noche, detección de movimiento y audio bidireccional con el Video Doorbell y Mini Cámara. Instalación fácil, ya sea con cable o inalámbrica. Conéctalo al timbre para alertas en casa. Configuración rápida en minutos. Responde a la puerta desde tu smartphone. Almacena videos en la nube o localmente con el Sync Module 2. Compatible con Alexa para notificaciones y comunicación bidireccional. Incluye Video Doorbell, Mini Cámara, soporte Mini, cable USB, adaptador de corriente y kit de montaje.",
+    "img1": "https://m.media-amazon.com/images/I/51kW27e9LJL._AC_SY450_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/41XwwZCZR7L._AC_SY450_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/51QyHhece9L._AC_SY450_.jpg",
+    "calificacion": 88
+  },{
+    "id": 0,
+    "titulo": "Cámara Floodlight Blink",
+    "afiliado": "https://amzn.to/48Q6XdV",
+    "descripcion": "Cámara de seguridad inteligente con iluminación LED y detección de movimiento.",
+    "review": "Protege tu hogar con la Cámara Floodlight Blink, que ofrece iluminación LED potente, detección de movimiento y timbre de vídeo. Experimenta la vista en vivo en HD, recibe alertas personalizadas y descubre quién está ahí con la detección de personas. Fácil de instalar, compatible con Alexa y con opciones de almacenamiento en la nube o local.",
+    "img1": "https://m.media-amazon.com/images/I/41zRan6Th4L._SY450_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/615jR5qeYHL._SY450_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/61yh0X0gyhL._SY450_.jpg",
+    "calificacion": 85
+  }
+ ]

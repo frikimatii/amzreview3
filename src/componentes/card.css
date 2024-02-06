@@ -1,0 +1,54 @@
+.carousel-inner{
+    width: 300px; /* Establece el ancho deseado */
+    height: 300px; /* Establece la altura deseada */
+    object-fit: cover; /* Controla cómo se ajusta la imagen al tamaño especificado */
+  }
+.box{
+    border: solid rgb(161, 161, 161) 4px;
+    border-radius: 20px;
+  }
+.tarjeta{
+    border: none;
+    align-items: center !important;
+  }
+.comprar {
+  background-color: #00ff73; 
+  color: black;
+  font-size: 25px !important;
+  border: none;
+  border-radius: 25px;
+  padding: 15px 30px;
+  text-decoration: none;
+  font-size: 18px;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.comprar:hover {
+  background-color: #00ff73; /* Cambia el tono al pasar el ratón sobre el botón */
+  box-shadow: 0 0 20px #00ff73, 0 0 50px #00ff73, 0 0 100px #00ff73;
+  border: none;
+}
+  
+  
+.progress{
+  background-color: rgb(129, 255, 118);
+  height: 30px;
+  border-radius: 20px;
+}
+.progress:hover{
+  background-color: rgb(42, 255, 4);
+}
+
+.comment-button {
+  background-color: #007bff; /* Color de fondo */
+  color: #fff; /* Color del texto */
+  padding: 8px 16px; /* Espaciado interno */
+  border: none; /* Sin borde */
+  margin: 5px;
+  border-radius: 4px; /* Bordes redondeados */
+  cursor: pointer; /* Cambia el cursor al pasar por encima */
+}
+
+.comment-button:hover {
+  background-color: #0056b3; /* Cambia el color de fondo al pasar por encima */
+}
