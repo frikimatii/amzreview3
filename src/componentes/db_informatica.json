@@ -1,5 +1,29 @@
  [
   {
+    "id": 22,
+    "titulo": "Paquete de control Luna con pinza de teléfono",
+    "afiliado": "https://amzn.to/4bz2cYf",
+    "descripcion": "Paquete que incluye el control Luna de Amazon y una pinza de teléfono exclusiva para el controlador Luna.",
+    "review": "El Paquete de control Luna con pinza de teléfono cuenta con una calificación de 4.2 sobre 5 estrellas, basada en 11,103 calificaciones. Este paquete ofrece una solución completa para jugar en la nube con el control Luna de Amazon, diseñado para alto rendimiento y compatibilidad con una variedad de dispositivos. La tecnología Cloud Direct permite una conexión directa con los servidores de juegos personalizados de Amazon, garantizando una experiencia de juego fluida y sin configuraciones complejas. Además, la pinza de teléfono incluida permite conectar fácilmente el control Luna a un teléfono inteligente compatible, brindando versatilidad en la forma de jugar. Con palancas de control de baja fricción y un agarre cómodo, el control Luna está diseñado ergonómicamente para sesiones de juego prolongadas.",
+    "img1": "https://m.media-amazon.com/images/I/71QIpbAum9L._AC_SX466_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/41jP+OGgzyL._AC_SY450_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/41Lovkzm5EL._AC_SY450_.jpg",
+    "calificacion": 85
+  }
+,  
+  {
+    "id": 21,
+    "titulo": "Nuevo Echo Show 5 (3.ª generación)",
+    "afiliado": "https://amzn.to/3UBxkQR",
+    "descripcion": "Nuevo Echo Show 5 con pantalla inteligente de 5\"",
+    "review": "El Nuevo Echo Show 5 (3.ª generación) cuenta con una calificación de 4.5 sobre 5 estrellas, basada en 22,217 calificaciones. Ofrece una experiencia completa con Alexa, permitiendo establecer alarmas, reproducir música, controlar dispositivos inteligentes del hogar y realizar videollamadas. Con su pantalla de 5.5\", proporciona una excelente calidad de sonido y permite ver contenido visual de forma rápida y clara. Además, garantiza la privacidad del usuario con controles de micrófono y cámara, así como un diseño sustentable con materiales reciclados.",
+    "img1": "https://m.media-amazon.com/images/I/811fhEHskWL._AC_SY300_SX300_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/618wKduHSuL._AC_SY450_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/61gjkEnX3vL._AC_SY450_.jpg",
+    "calificacion": 90
+  }
+  ,
+  {
     "id": 20,
     "titulo": "Hagibis Kit de luz LED de estudio",
     "afiliado": "https://amzn.to/3w5W4GI",

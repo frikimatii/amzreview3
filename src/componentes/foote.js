@@ -4,16 +4,16 @@ import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
 
 function Footer() {
   return (
-    <footer className="mt-5 bg-dark text-light p-4">
+    <footer className="mt-5 bg-dark text-light p-4 footer">
       <Container fluid className="text-center">
         <div className="mb-3">
-          <a href="https://www.facebook.com/" className="text-light me-3">
+          <a href="https://www.facebook.com/profile.php?id=100094886682039" className="text-light me-3">
             <FaFacebook size={30} />
           </a>
-          <a href="https://twitter.com/" className="text-light me-3">
+          <a href="https://twitter.com/reviewAMZReview" className="text-light me-3">
             <FaTwitter size={30} />
           </a>
-          <a href="https://www.instagram.com/" className="text-light">
+          <a href="https://www.instagram.com/amzreview3/" className="text-light">
             <FaInstagram size={30} />
           </a>
         </div>

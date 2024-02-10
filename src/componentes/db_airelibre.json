@@ -1,6 +1,6 @@
 [
   {
-    "id": 20,
+    "id": 19,
     "titulo": "Juego de Paletas de Pickleball de Carbono",
     "afiliado": "https://amzn.to/485KRDa",
     "descripcion": "Juego de 2 paletas de pickleball de fibra de carbono.",
@@ -11,7 +11,7 @@
     "calificacion": 95
   },
   {
-    "id": 19,
+    "id": 18,
     "titulo": "Flotador Piscina Autoinflable Cosone",
     "afiliado": "https://amzn.to/485KA36",
     "descripcion": "Flotador duradero y portátil para piscina y viajes.",
@@ -22,7 +22,7 @@
     "calificacion": 90
   },
   {
-    "id": 18,
+    "id": 17,
     "titulo": "DEVICO Juego de Cubiertos Portátil",
     "afiliado": "https://amzn.to/4bsCSDq",
     "descripcion": "Set de cubiertos de acero inoxidable para viaje y camping.",
@@ -33,7 +33,7 @@
     "calificacion": 92
   },
   {
-    "id": 17,
+    "id": 16,
     "titulo": "Royalbaby Kids Balance Bike",
     "afiliado": "https://amzn.to/3ux58nv",
     "descripcion": "Bicicleta de equilibrio para niños de 2 a 5 años.",
@@ -44,7 +44,7 @@
     "calificacion": 81
   },
   {
-    "id": 16,
+    "id": 15,
     "titulo": "Royalbaby Freestyle Kids Bike",
     "afiliado": "https://amzn.to/4bt0Aiy",
     "descripcion": "Bicicleta para niños inspirada en BMX, diseño deportivo.",
@@ -54,18 +54,7 @@
     "img3": "https://m.media-amazon.com/images/I/71NYovmuHAL._AC_SX679_.jpg",
     "calificacion": 94
   },
-  {
-    "id": 15,
-    "titulo": "Kit Greenworks: Recortadora/Bordeadora y Soplador de Hojas Inalámbrico 40V",
-    "afiliado": "https://amzn.to/3UBDJeG",
-    "descripcion": "Kit combinado para el cuidado del jardín con recortadora y soplador inalámbricos de 40V.",
-    "review": "El kit Greenworks de recortadora/bordeadora y soplador inalámbricos ofrece una solución eficiente para mantener tu jardín impecable. La recortadora de 13 pulgadas es versátil, convirtiéndose fácilmente en bordeadora. El diseño ligero y ergonómico reduce la fatiga del usuario. Con alimentación automática de línea y un soplador potente que proporciona un rendimiento de limpieza excepcional, este kit es ideal para mantener pasarelas y entradas libres de césped y malas hierbas. Además, el kit incluye batería de 40V, 3 carretes adicionales, y un cargador para una conveniencia total.",
-    "img1": "https://m.media-amazon.com/images/I/71fPLtxolkL._AC_SX679_.jpg",
-    "img2": "https://m.media-amazon.com/images/I/91WvC3GPbFL._AC_SX679_.jpg",
-    "img3": "https://m.media-amazon.com/images/I/51stamUjgrL._AC_.jpg",
-    "calificacion": 85
-  }
-  ,
+
   {
     "id": 14,
     "titulo": "Club Champ Junior DTP Juego de Golf (Diseñado para Jugar)",

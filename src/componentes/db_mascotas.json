@@ -1,5 +1,29 @@
 [
   {
+    "id": 22,
+    "titulo": "Rastreador GPS Impermeable para Gatos Tractive",
+    "afiliado": "https://amzn.to/3HWNVXY",
+    "descripcion": "Rastreador GPS resistente al agua para gatos con seguimiento de ubicación y actividad.",
+    "review": "El rastreador GPS para gatos Tractive ofrece una solución confiable para mantener a tu felino seguro y saludable. Con funciones como seguimiento en tiempo real, valla virtual y monitoreo de actividad, puedes mantener un ojo en tu mascota desde cualquier lugar. Además, su diseño resistente al agua lo hace ideal para todas las condiciones climáticas. Con opciones de suscripción flexibles y cobertura en más de 150 países, este rastreador proporciona tranquilidad a los propietarios de gatos preocupados. Si buscas una forma efectiva de mantener a tu gato seguro y en forma, el rastreador GPS Tractive es una excelente opción.",
+    "img1": "https://m.media-amazon.com/images/I/71ktORAiVQL._AC_SX466_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71VfdaxWV1L._AC_SX466_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/61lShI7RTFL._AC_SX466_.jpg",
+    "calificacion": 90
+  }
+,  
+    {
+      "id": 21,
+      "titulo": "Rastreador GPS para Perros Tractive Impermeable",
+      "afiliado": "https://amzn.to/49cogX6",
+      "descripcion": "Rastreador GPS resistente al agua para perros con ubicación en tiempo real y monitoreo de actividad.",
+      "review": "El rastreador GPS para perros Tractive ofrece tranquilidad al propietario al proporcionar una ubicación en tiempo real de su mascota, así como un historial de lugares visitados. Con funciones como valla virtual y monitoreo de actividad, ayuda a mantener a tu perro seguro y saludable. Además, su resistencia al agua lo hace adecuado para cualquier condición climática. Con opciones de suscripción flexibles y cobertura en más de 150 países, este rastreador ofrece un seguimiento confiable en todo momento. Si buscas un dispositivo confiable para mantener a tu perro seguro y saludable, el rastreador GPS Tractive es una excelente opción.",
+      "img1": "https://m.media-amazon.com/images/I/71mpjO-nFJL._AC_SX679_.jpg",
+      "img2": "https://m.media-amazon.com/images/I/81KtCryMzEL._AC_SX679_.jpg",
+      "img3": "https://m.media-amazon.com/images/I/81c7Nth1MFL._AC_SX679_.jpg",
+      "calificacion": 92
+    }
+,    
+  {
     "id": 20,
     "titulo": "Comedero Automático PETLIBRO con Cámara para Dos Mascotas",
     "afiliado": "https://amzn.to/3HOGKRm",

@@ -1,5 +1,88 @@
 [
   {
+    "id": 27,
+    "titulo": "Estatua Bulldog francés",
+    "afiliado": "https://amzn.to/3ODCqsb",
+    "descripcion": "Figura de adorno de animales de resina para decoración del hogar.",
+    "review": "La estatua nórdica de perro Bulldog francés de suruim es una elegante escultura de resina que agrega un toque moderno a cualquier espacio. Con su diseño detallado y acabado en plata galvanizada, esta figura es perfecta para decorar la sala de estar u otros rincones del hogar. Disponible en varios colores y tamaños.",
+    "img1": "https://m.media-amazon.com/images/I/618ljly8oKL._AC_SX679_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71CL5togK1L._AC_SX679_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/61TToRAvlLL._AC_SX679_.jpg",
+    "calificacion": 95
+  }
+  ,{
+  "id": 26,
+  "titulo": "Estatua de perro con globo",
+  "afiliado": "https://amzn.to/3Sync8T",
+  "descripcion": "Escultura de resina para decoración del hogar.",
+  "review": "La estatua de perro con globo de alslovkar es una encantadora escultura de resina que añadirá un toque de alegría a cualquier espacio. Perfecta para decorar el hogar, el escritorio moderno u oficina, esta figura de animal es un accesorio único para la sala de estar. Disponible en una variedad de colores y tamaños para adaptarse a tu estilo.",
+  "img1": "https://m.media-amazon.com/images/I/61WWYUCdTWL._AC_SX679_.jpg",
+  "img2": "https://m.media-amazon.com/images/I/419s1A0vv8L._AC_SX679_.jpg",
+  "img3": "https://m.media-amazon.com/images/I/51nEaiAKu2L._AC_SX679_.jpg",
+  "calificacion": 90
+}
+,
+  {
+    "id": 25,
+    "titulo": "Árbol de ficus artificial de 4 pies",
+    "afiliado": "https://amzn.to/3OGwjDf",
+    "descripcion": "Árbol de ficus artificial de 4 pies con tronco de madera natural.",
+    "review": "Este árbol de ficus artificial de SOGUYI ofrece detalles realistas y un diseño auténtico, con hojas y ramas que imitan perfectamente un árbol de caucho genuino. Viene premontado en una maceta de plástico resistente y hormigón, lo que lo hace estable y fácil de trasplantar. Con 48 pulgadas de altura, es un complemento perfecto para cualquier espacio interior, ofreciendo elegancia de bajo mantenimiento sin necesidad de luz solar, riego o poda.",
+    "img1": "https://m.media-amazon.com/images/I/71s9khlfMTL._AC_SX679_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71ydiRaoN1L._AC_SX679_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/71wqALRRzUL._AC_SX679_.jpg",
+    "calificacion": 95
+  }
+,  
+  {
+    "id": 24,
+    "titulo": "Calentador de Toallas SereneLife de un Solo Toque",
+    "afiliado": "https://amzn.to/42HqX0w",
+    "descripcion": "Eficiente calentador de toallas y mantas con fragancia y temporizador.",
+    "review": "El calentador de toallas SereneLife ofrece una experiencia de lujo similar a la de un spa en la comodidad de tu hogar. Con su función de un solo toque y temporizador integrado, puedes disfrutar de toallas o mantas calientes durante 60 minutos antes de apagarse automáticamente. Además, el innovador soporte para discos fragantes infunde un aroma delicioso en tus toallas o mantas, creando un ambiente sereno y relajante. Su diseño elegante y práctico, junto con su capacidad para calentar dos toallas grandes simultáneamente, lo convierten en un complemento perfecto para cualquier baño. Con especificaciones técnicas impresionantes que garantizan un calentamiento rápido y eficiente, este calentador de toallas es una adición excepcional a cualquier hogar.",
+    "img1": "https://m.media-amazon.com/images/I/81FE2160LxL._AC_SX679_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71e7C-t8cIL._AC_SX679_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/81wga2v2pvL._AC_SX679_.jpg",
+    "calificacion": 94
+  }
+,  
+  {
+    "id": 23,
+    "titulo": "Juego de Cuchillos Wüsthof Classic Hollow Edge",
+    "afiliado": "https://amzn.to/3wllksv",
+    "descripcion": "Combo esencial de cuchillos de chef y pelador.",
+    "review": "El juego de cuchillos Wüsthof Classic Hollow Edge es un combo esencial para cualquier cocina. Con un cuchillo de chef de 6 pulgadas y un cuchillo de pelar de 3.5 pulgadas, este set cubre una amplia gama de tareas, desde cortar y picar hasta pelar y rebanar. Las cuchillas de acero inoxidable de alto carbono están afiladas con precisión y ofrecen un fácil mantenimiento. La tecnología Precision Edge (PEtec) garantiza una nitidez increíble y una retención de borde superior. Con más de dos siglos de tradición en la fabricación de cuchillos, Wüsthof es una marca de renombre que garantiza calidad y precisión en cada corte.",
+    "img1": "https://m.media-amazon.com/images/I/61b0ng0Gg5L._AC_SX679_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/61nWKFAHQPL._AC_SX679_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/81408ipjVHL._AC_SX679_.jpg",
+    "calificacion": 95
+  }
+,  
+  {
+    "id": 22,
+    "titulo": "Sartén Antiadherente Tramontina 4 Cuartos",
+    "afiliado": "https://amzn.to/3wlkYCb",
+    "descripcion": "Sartén antiadherente con vaporizador y tapa de vidrio.",
+    "review": "La sartén antiadherente Tramontina es una excelente opción para cocinar de manera versátil y conveniente. Su construcción de aluminio asegura una distribución uniforme del calor, mientras que el acabado exterior rojo metálico le da un toque vibrante a tu cocina. El vaporizador de acero inoxidable te permite cocinar de forma más saludable, mientras que los mangos de baquelita mantienen fresca la manipulación. La tapa de vidrio templado permite supervisar la cocción sin perder calor ni humedad. Compatible con diferentes tipos de estufas, esta sartén es una herramienta versátil para cualquier cocina.",
+    "img1": "https://m.media-amazon.com/images/I/81jJAT+ueFL._AC_SX679_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/81x4RL3IKcL._AC_SX679_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/914a6InNI1L._AC_SX679_.jpg",
+    "calificacion": 92
+  }
+,  
+  {
+    "id": 21,
+    "titulo": "Sellador al Vacío NutriChef Negro",
+    "afiliado": "https://amzn.to/3w6Oqf8",
+    "descripcion": "Sellador al vacío eficiente y fácil de operar para conservar alimentos frescos.",
+    "review": "El sellador al vacío NutriChef ofrece una solución conveniente y eficaz para conservar alimentos frescos por más tiempo. Con sus dos modos de sellado y su diseño fácil de operar, este dispositivo proporciona una manera sencilla de organizar y preservar alimentos, ahorrando tiempo y dinero en el proceso. Además, su kit de inicio completo garantiza que estés listo para comenzar a conservar tus alimentos de inmediato, con bolsas reutilizables y un tapón de corcho para vino incluidos. Con pruebas de laboratorio que respaldan su eficacia, este sellador al vacío es una adición valiosa a cualquier cocina.",
+    "img1": "https://m.media-amazon.com/images/I/816DqlUyG8L._AC_SX679_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/81aohdLf-6L._AC_SX679_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/81yGY6LlZlL._AC_SX679_.jpg",
+    "calificacion": 90
+  }
+,  
+  {
   "id": 20,
   "titulo": "Soporte TV Granja OKD 60 pulgadas",
   "afiliado": "https://amzn.to/3SvZOsu",

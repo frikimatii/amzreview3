@@ -1,5 +1,17 @@
 [
   {
+    "id": 21,
+    "titulo": "Kindle Paperwhite 3G, Pantalla de Alta Resolución (300 ppi) con Luz Incorporada",
+    "afiliado": "https://amzn.to/49wc3fs",
+    "descripcion": "Kindle Paperwhite 3G con pantalla de 6\" de alta resolución y luz incorporada",
+    "review": "El Kindle Paperwhite 3G cuenta con una calificación de 3.8 sobre 5 estrellas, basada en 102 calificaciones. Presenta una pantalla de alta resolución de 6\" (300 ppi) con luz integrada ajustable, lo que permite una lectura cómoda tanto de día como de noche. Destaca por su falta de deslumbramiento en la pantalla, incluso bajo luz solar directa, y su batería de larga duración que puede durar semanas con una sola carga. Además, es más ligero que un libro de bolsillo y puede almacenar miles de libros.",
+    "img1": "https://m.media-amazon.com/images/I/71KpHc5m6VL._AC_SY450_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71qVoGNiLcL._AC_SY450_.jpg",
+    "img3": "https://m.media-amazon.com/images/I/719LcDqD0aL._AC_SY450_.jpg",
+    "calificacion": 75
+  }
+,  
+  {
     "id": 20,
     "titulo": "Grapadora Industrial Alta Capacidad",
     "afiliado": "https://amzn.to/480aZQ9",
